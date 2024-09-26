@@ -1,0 +1,35 @@
+# Análise Exploratória de Dados em Python
+
+Este projeto consiste em uma ferramenta de análise exploratória de dados desenvolvida em Python. A ferramenta permite carregar dados de diversas fontes, realizar análises descritivas e gerar visualizações gráficas para facilitar a compreensão dos dados.
+
+## Funcionalidades
+
+- **Carregamento de Dados**: Suporta arquivos CSV e integração com Google Drive.
+- **Análise Exploratória**:
+  - Visualização das primeiras linhas do DataFrame.
+  - Informações gerais sobre o DataFrame.
+  - Estatísticas descritivas das variáveis numéricas.
+- **Visualizações**:
+  - Histograma
+  - Gráfico de Linha
+  - Gráfico de Dispersão
+  - Boxplot
+  - Matriz de Correlação
+- **Análise Especializada**: Espaço para adicionar análises personalizadas.
+
+## Requisitos
+
+- Python 3.7 ou superior
+- As seguintes bibliotecas Python:
+  - pandas
+  - matplotlib
+  - seaborn
+  - requests
+
+## Instalação
+
+1. **Clone o repositório:**
+
+   ```bash
+   git clone https://github.com/seu-usuario/seu-repositorio.git
+   cd seu-repositorio
